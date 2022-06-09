@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelGrouping", "LabelGrouping\LabelGrouping.csproj", "{D3E75096-3FFC-44F6-AC8B-4EAF586305AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E75096-3FFC-44F6-AC8B-4EAF586305AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E75096-3FFC-44F6-AC8B-4EAF586305AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E75096-3FFC-44F6-AC8B-4EAF586305AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E75096-3FFC-44F6-AC8B-4EAF586305AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B1D18EA-B0FD-4DEE-B7FE-8C3B716B7EDD}
+	EndGlobalSection
+EndGlobal
